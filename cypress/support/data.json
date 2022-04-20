@@ -1,0 +1,37 @@
+{
+  "locatorsLogin":{
+      "username":"#txtUsername",
+      "password":"#txtPassword",
+      "loginButton":"#btnLogin"
+  },
+
+  "locatorsMenu": {
+    "recruitment":"#menu_recruitment_viewRecruitmentModule"
+  },
+  "locatorsRecruitment":{
+    "candidateButton": "#menu_recruitment_viewCandidates",
+    "candidateNameSearch": "#candidateSearch_candidateName",
+    "searchButton": "#btnSrch",
+    "addCandidateButton":"#btnAdd",
+    
+    "addCandidate": {
+    "firstName":"#addCandidate_firstName",
+    "middleName":"#addCandidate_middleName",
+    "lastName":"#addCandidate_lastName",
+    "email":"#addCandidate_email",
+    "contactNo":"#addCandidate_contactNo",
+    "vacancy":"#addCandidate_vacancy",
+    "cv":"#addCandidate_resume",
+    "keyWords":"#addCandidate_keyWords",
+    "comments":"#addCandidate_comment",
+    "consentCheckBox":"#addCandidate_consentToKeepData",
+    "saveButton":"#btnSave",
+    "downloadCV":"#fileLink > a"
+    },
+
+    "table": {
+      "resultTable": "#resultTable"
+    }
+
+  }  
+}

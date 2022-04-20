@@ -1,0 +1,9 @@
+{
+  "baseUrl": "https://opensource-demo.orangehrmlive.com/",
+  "defaultCommandTimeout": 10000,
+  "viewportWidth": 1280,
+  "viewportHeight": 720,
+  "env": {
+    "allure": true
+  }
+}
